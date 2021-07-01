@@ -1,0 +1,16 @@
+<!-- an SVG of a clock -->
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="50" fill="none" stroke-width="6" stroke-miterlimit="10" stroke="black" />
+    <circle cx="50" cy="50" r="92" fill="green" stroke-width="0" stroke-miterlimit="10" />
+  <circle cx="50" cy="50" r="84" fill="black" stroke-width="0" stroke-miterlimit="10" />
+  <circle cx="50" cy="50" r="76" fill="blue" stroke-width="0" stroke-miterlimit="10" />
+  <circle cx="50" cy="50" r="68" fill="black" stroke-width="0" stroke-miterlimit="10" />
+  <circle cx="50" cy="50" r="60" fill="green" stroke-width="0" stroke-miterlimit="10" />
+  <circle cx="50" cy="50" r="52" fill="black" stroke-width="0" stroke-miterlimit="10" />
+  <circle cx="50" cy="50" r="44" fill="yellow" stroke-width="0" stroke-miterlimit="10" />
+  <circle cx="50" cy="50" r="36" fill="black" stroke-width="0" stroke-miterlimit="10" />
+  <circle cx="50" cy="50" r="28" fill="orange" stroke-width="0" stroke-miterlimit="10" />
+  <circle cx="50" cy="50" r="20" fill="black" stroke-width="0" stroke-miterlimit="10" />
+  <circle cx="50" cy="50" r="12" fill="red" stroke-width="0" stroke-miterlimit="10" />
+  <circle cx="50" cy="50" r="4" fill="black" stroke-width="0" stroke-miterlimit="10" />
+</svg>
